@@ -1,0 +1,22 @@
+#heading
+{
+   
+    color: black;
+    font-size: 35px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 700px;
+}
+#image
+{
+    font-size: 20px;
+    background-color: white;
+    height: 25px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+a{
+    color: black;
+}
+
